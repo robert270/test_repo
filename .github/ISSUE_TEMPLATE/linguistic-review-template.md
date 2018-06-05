@@ -6,7 +6,7 @@ about: linguistic issues
 
 URL: 
 
-date reviewed:
+Date reviewed:
 
 English content:
 
